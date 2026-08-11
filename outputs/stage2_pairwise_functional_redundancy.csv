@@ -1,0 +1,7 @@
+strain_1,strain_2,pearson_r
+P_pergaminensis,A_salinitolerans,0.7766052019473962
+B_pseudomycoides,Pa_polymyxa,0.0570928955802704
+A_salinitolerans,B_pseudomycoides,0.0383904173174555
+P_pergaminensis,B_pseudomycoides,-0.11174712730488
+A_salinitolerans,Pa_polymyxa,-0.1436826066103921
+P_pergaminensis,Pa_polymyxa,-0.3624106369085497

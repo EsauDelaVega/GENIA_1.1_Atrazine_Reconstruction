@@ -1,0 +1,5 @@
+Genus,Selected_strain,genomic_score,rank_overall_of_95,n_candidates_in_genus,is_published_finalist,classic_raw,complementary_raw,oxidative_raw,transport_raw
+Pseudomonas,PSELUT1_Pseudomonas_pergaminensis,1.0,1,15,True,3,5,30,73
+Agrobacterium,C58_Agrobacterium_tumefaciens,0.5414848484848485,23,5,False,2,1,21,44
+Bacillus,AN11_Bacillus_pseudomycoides,0.5292727272727272,26,4,True,2,0,24,45
+Paenibacillus,ATCC842_Paenibacillus_polymyxa,0.573060606060606,19,8,False,2,0,29,46

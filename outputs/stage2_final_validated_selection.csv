@@ -1,0 +1,5 @@
+Strain,genomic_isolate_id,genomic_score_stage1,genomic_rank_of_95,measured_degradation_pct_mean,measured_degradation_pct_std,n_replicates,ecoplate_substrates_active_of_31,ecoplate_shannon_diversity
+P. pergaminensis,PSELUT1_Pseudomonas_pergaminensis,1.0,1,57.6995786525,5.155342702513178,8,30,3.3936149655404715
+A. salinitolerans,C1G7_Agrobacterium_salinitolerans,0.5221212121212121,28,44.29862418875,8.435146606983242,8,30,3.388364111440421
+B. pseudomycoides,AN11_Bacillus_pseudomycoides,0.5292727272727272,26,49.124634355,5.740105722298255,8,30,3.3880848611890215
+Pa. polymyxa,AN10_Paenibacillus_polymyxa,0.5616969696969697,21,46.84438848125,6.895560350561017,8,30,3.3841298559431694
